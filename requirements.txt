@@ -1,0 +1,10 @@
+numpy
+plotly==5.15.0
+seaborn
+matplotlib
+pydantic_settings
+ydata-profiling
+streamlit
+pycaret
+pandas
+scikit-learn
